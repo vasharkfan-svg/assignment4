@@ -1,2 +1,2 @@
 # assignment4
-this is a assignment for cpsc 225 
+This is a test project
